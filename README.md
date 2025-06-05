@@ -1,4 +1,4 @@
-# Multibot by Ryan M
+# Multibot by Ryan M Hi
 
 This is a basic Python project called Multibot. It is scaffolded for GitHub and ready for development.
 
