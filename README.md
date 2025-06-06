@@ -21,8 +21,7 @@ python <script_name>.py
 - `README.md`: Project overview and instructions.
 
 ## Webpage
-An example webpage is available in the `docs/` folder. Once pushed to GitHub,
-you can enable GitHub Pages in the repository settings to share it publicly.
+An example webpage is available in the `docs/` folder. You can view the page at [docs/index.html](docs/index.html). Once pushed to GitHub, you can enable GitHub Pages in the repository settings to share it publicly.
 
 ## License
 Specify your license here.
